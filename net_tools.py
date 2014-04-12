@@ -1,4 +1,4 @@
-﻿#!/usr/bin/python2.5.2
+﻿#!/usr/bin/python2.7.2
 # -*- coding: utf-8 -*-
 import urllib2
 import cStringIO
