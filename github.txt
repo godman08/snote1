@@ -1,0 +1,6 @@
+gitbash
+
+git clone https://github.com/godman08/snote1.git
+
+ls
+ls -al
