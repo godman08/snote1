@@ -4,3 +4,14 @@ git clone https://github.com/godman08/snote1.git
 
 ls
 ls -al
+
+
+git commit -m "add file"
+git push
+
+
+git pull
+
+--username
+git config user.name
+git config user.password
